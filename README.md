@@ -13,5 +13,3 @@ Methodology
 - Modeling: Linear regression models are employed to predict future trends. Adjustments ensure predictions align seamlessly with the last observed values and reflect realistic increases post-pandemic.
 - Visualization: Clear, interactive graphs illustrate comparisons between historical and predicted trends, differentiating between U.S. and global averages.
 - Accuracy: Predictions take into account major economic disruptions, wage stagnation, inflation, and uneven recovery efforts, making them both meaningful and realistic.
-
-The Income Inequality Trends Analysis Project provides a comprehensive overview of global and U.S. inequality trends, extending from historical data to insightful predictions for the future. By highlighting the factors driving these disparities, this work contributes to a broader understanding of societal challenges and opportunities. Feel free to contribute, adapt, or extend the project—collaborative insights are always welcome!
