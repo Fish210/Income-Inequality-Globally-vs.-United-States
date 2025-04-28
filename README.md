@@ -13,3 +13,7 @@ Methodology
 - Modeling: Linear regression models are employed to predict future trends. Adjustments ensure predictions align seamlessly with the last observed values and reflect realistic increases post-pandemic.
 - Visualization: Clear, interactive graphs illustrate comparisons between historical and predicted trends, differentiating between U.S. and global averages.
 - Accuracy: Predictions take into account major economic disruptions, wage stagnation, inflation, and uneven recovery efforts, making them both meaningful and realistic.
+
+Slideshow:
+
+https://docs.google.com/presentation/d/13YIoz0w3bHLp9S6kLR4hweXQa8a5LVwgSD7ELw6cX0M/edit#slide=id.p
